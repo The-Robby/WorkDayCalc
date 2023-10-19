@@ -1,0 +1,10 @@
+F:\codes\REAL PROJECTS\WorkDayCalc\WorkDayCalc\WorkDayCalc\bin\Debug\WorkDayCalc.exe.config
+F:\codes\REAL PROJECTS\WorkDayCalc\WorkDayCalc\WorkDayCalc\bin\Debug\WorkDayCalc.exe
+F:\codes\REAL PROJECTS\WorkDayCalc\WorkDayCalc\WorkDayCalc\bin\Debug\WorkDayCalc.pdb
+F:\codes\REAL PROJECTS\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.csprojAssemblyReference.cache
+F:\codes\REAL PROJECTS\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.Form1.resources
+F:\codes\REAL PROJECTS\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.Properties.Resources.resources
+F:\codes\REAL PROJECTS\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.csproj.GenerateResource.cache
+F:\codes\REAL PROJECTS\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.csproj.CoreCompileInputs.cache
+F:\codes\REAL PROJECTS\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.exe
+F:\codes\REAL PROJECTS\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.pdb

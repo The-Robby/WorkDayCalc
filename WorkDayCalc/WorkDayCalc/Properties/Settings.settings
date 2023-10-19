@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WorkDayCalc.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DayHours" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7:48</Value>
+    </Setting>
+    <Setting Name="LunchTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0:30</Value>
+    </Setting>
+    <Setting Name="StartHour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">08:00</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

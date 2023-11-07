@@ -33,11 +33,20 @@ namespace WorkDayCalc
             Global.s_txtDayHours = txtDayHours.Text.ToString();
             Global.s_txtLunchTime = txtLunchTime.Text.ToString();
             Global.s_txtStartHour = txtStartHour.Text.ToString();
+            try
+            {
+                Global.d_txtStartHour = MinutesToDecimal(Global.s_txtStartHour);
+                Global.d_txtDayHours = MinutesToDecimal(Global.s_txtDayHours);
+                Global.d_txtLunchTime = MinutesToDecimal(Global.s_txtLunchTime);
+            }
+            catch (Exception)
+            {
 
-            Global.d_txtStartHour = MinutesToDecimal(Global.s_txtStartHour);
-            Global.d_txtDayHours = MinutesToDecimal(Global.s_txtDayHours);
-            Global.d_txtLunchTime = MinutesToDecimal(Global.s_txtLunchTime);
+                MessageBox.Show("Check the format(HH:MM). H stands for hours and M for minutes.\nAlso it must have a ':' and not a '.'");
+            }
 
+            try
+            {
             if (checkPaidLunch.Checked && checkHalfDay.Checked)
             {
                 Global.d_txtEndHour = Global.d_txtStartHour + (Global.d_txtDayHours/2);
@@ -56,6 +65,12 @@ namespace WorkDayCalc
             //Global.s_txtEndHour = Convert.ToString(Global.d_txtEndHour);
             txtEndHour.SelectedText += Global.s_txtEndHour;
             Properties.Settings.Default.Save();
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Something went wrong, please check that you have the right format(HH:MM).\nIt must include a ':' and not a '.' or something else.");
+            }
+            
         }
 
         private void txtStartHour_TextChanged(object sender, EventArgs e)
@@ -82,9 +97,11 @@ namespace WorkDayCalc
         }
         public double MinutesToDecimal(string s_ToConvert)
         {
-            Global.d_ConvertedDecimals = Convert.ToDouble(TimeSpan.Parse(s_ToConvert).TotalHours);
 
-            return Global.d_ConvertedDecimals;
+                Global.d_ConvertedDecimals = Convert.ToDouble(TimeSpan.Parse(s_ToConvert).TotalHours);
+
+                return Global.d_ConvertedDecimals;
+  
         }
         private void txtDayHours_TextChanged(object sender, EventArgs e)
         {

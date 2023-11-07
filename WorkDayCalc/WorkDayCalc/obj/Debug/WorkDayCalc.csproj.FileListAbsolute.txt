@@ -8,3 +8,13 @@ F:\codes\REAL PROJECTS\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc
 F:\codes\REAL PROJECTS\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.csproj.CoreCompileInputs.cache
 F:\codes\REAL PROJECTS\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.exe
 F:\codes\REAL PROJECTS\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.pdb
+C:\Users\robbe\Desktop\hour calc\WorkDayCalc\WorkDayCalc\WorkDayCalc\bin\Debug\WorkDayCalc.exe.config
+C:\Users\robbe\Desktop\hour calc\WorkDayCalc\WorkDayCalc\WorkDayCalc\bin\Debug\WorkDayCalc.exe
+C:\Users\robbe\Desktop\hour calc\WorkDayCalc\WorkDayCalc\WorkDayCalc\bin\Debug\WorkDayCalc.pdb
+C:\Users\robbe\Desktop\hour calc\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.csprojAssemblyReference.cache
+C:\Users\robbe\Desktop\hour calc\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.Form1.resources
+C:\Users\robbe\Desktop\hour calc\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.Properties.Resources.resources
+C:\Users\robbe\Desktop\hour calc\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.csproj.GenerateResource.cache
+C:\Users\robbe\Desktop\hour calc\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.csproj.CoreCompileInputs.cache
+C:\Users\robbe\Desktop\hour calc\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.exe
+C:\Users\robbe\Desktop\hour calc\WorkDayCalc\WorkDayCalc\WorkDayCalc\obj\Debug\WorkDayCalc.pdb
